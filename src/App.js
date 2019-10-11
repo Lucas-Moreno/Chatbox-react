@@ -1,6 +1,8 @@
 import React, { Component, createRef } from 'react'
+// STYLE
 import './App.css'
 import './animations.css'
+
 
 import Formulaire from './components/Formulaire'
 import Message from './components/Message'
