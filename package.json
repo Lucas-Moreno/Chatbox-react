@@ -9,7 +9,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-transition-group": "^2.9.0"
   },
   "scripts": {
@@ -31,7 +31,7 @@
     "parser": "babel-eslint"
   },
   "devDependencies": {
-    "css-loader": "^3.2.0",
-    "parcel": "^1.12.4"
+    "css-loader": "^6.7.3",
+    "parcel": "^2.8.2"
   }
 }
